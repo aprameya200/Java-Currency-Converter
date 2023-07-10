@@ -1,0 +1,8 @@
+Japanese Yen (JPY), 156.08, ¥
+Euro (EUR), 1.20, €
+US Dollars (USD), 1.36, $
+Australian Dollars (AUD), 1.89, A$
+Canadian Dollars (CAD), 1.72, C$
+South Korean Won (KRW), 1624.39, ₩
+Thai Baht (THB), 45.60, ฿
+United Arab Emirates Dirham (AED), 4.98, د.إ
